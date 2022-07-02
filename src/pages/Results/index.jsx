@@ -1,6 +1,4 @@
-import React from 'react'
-
-const Result = () => {
+function Results() {
   return (
     <div>
       <h1>Résultats</h1>
@@ -8,4 +6,4 @@ const Result = () => {
   )
 }
 
-export default Result
+export default Results
